@@ -1,0 +1,3 @@
+- Ürün ekle, satış kaydı oluştur
+- "📄 Haftalık Rapor Oluştur" → PDF
+- "💾 Yedek Al" → JSON export

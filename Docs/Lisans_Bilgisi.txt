@@ -1,0 +1,4 @@
+SARAI Lisans
+- Demo: 30 gün
+- Tam lisans anahtarı: "SARAI-<kurumsal-kod>"
+- İletişim: info@sarailabs.com

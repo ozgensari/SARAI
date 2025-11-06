@@ -1,0 +1,5 @@
+SARAI v1.0 — Kurulum
+1) SARAI.csproj’u Visual Studio ile aç
+2) NuGet: Microsoft.Data.Sqlite ve iTextSharp otomatik yüklenecek
+3) F5 ile çalıştır → SARAI.db otomatik oluşur
+4) Demo mod 30 gün
